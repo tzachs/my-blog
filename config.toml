@@ -1,0 +1,6 @@
+baseurl = "https://tzachs.github.io/"
+languageCode = "en-us"
+title = "Tzach Solomon's Blog"
+theme = "nofancy"
+pygmentsStyle = "native"
+newContentEditor = "vi"
