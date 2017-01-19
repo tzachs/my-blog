@@ -1,7 +1,9 @@
----
-title: "IllegalAccessError - Using URLClassLoader and package private methods"
-date: "2016-09-10"
----
++++
+categories = ["java"]
+title = "IllegalAccessError - Using URLClassLoader and package private methods"
+date = "2016-09-10"
+
++++
 
 When working with URLClassLoader, one of the things we need to watch for, is the 'run-time packages'.
 According to Java spec, a class is determined by it's binary name and it's class loader. Meaning, the class 'signature' is the binary name and the class loader used to load it. 
