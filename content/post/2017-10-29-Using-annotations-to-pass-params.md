@@ -2,7 +2,7 @@
 draft = false
 date = "2017-10-29T09:50:13+02:00"
 tags = ["Java"]
-categories = [""]
+categories = ["java"]
 slug = ""
 title = "Passing params using Java Annotations"
 
